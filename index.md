@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Fahdy Salim github pages
 
-You can use the [editor on GitHub](https://github.com/kwetiaw-goreng/old-thing-new-life/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am absolute newb with github pages, so bare with me while I upgrade my skill.
 
 ### Markdown
 
